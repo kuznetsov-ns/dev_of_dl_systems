@@ -1,4 +1,4 @@
-# CycleGAN-apple2orange
+# dev_of_dl_systems
 
 Основано на **[pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)**<br>
 
