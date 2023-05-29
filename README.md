@@ -14,7 +14,7 @@ git clone https://github.com/kuznetsov-ns/dev_of_dl_systems.git
 ```
 cd dev_of_dl_systems
 ```
-1. Собираем:
+3. Собираем:
 ```
 docker build -t test .
 ```
